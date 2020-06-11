@@ -1,5 +1,5 @@
-# Tweeter
-All related to scraping Tweeter data
+# Twitter
+All related to scraping Twitter data
 
 This notebook contains two ways of scraping tweeter data:
 
